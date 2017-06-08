@@ -1,3 +1,15 @@
 # react_webpack
-test gh-pages for react_webpack auth. Yo machine: yo react-webpack and build with npm run dist
+
+test react_webpack with Session Storage at Git Hub pages 
+
+Respecting npm built using npm run dist!
+
+Thank to Yo man team! 
+
+
+Other modules used:
+
+react-time
+
+react-datepicker, further reading: https://hacker0x01.github.io/react-datepicker/
 
