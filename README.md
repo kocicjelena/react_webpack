@@ -2,7 +2,7 @@
 
 test react_webpack with Session Storage at Git Hub pages 
 
-(Amin to WONDERER: basic react feature without redux)
+
 
 Respecting npm built using npm run dist!
 
